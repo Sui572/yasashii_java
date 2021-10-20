@@ -1,0 +1,36 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "yasashii_java_2769293a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample1",
+            "request": "launch",
+            "mainClass": "Sample1",
+            "projectName": "yasashii_java_2769293a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
