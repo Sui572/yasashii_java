@@ -1,4 +1,6 @@
-public class Sample1 {
+package Sample;
+
+public class Sample1_1 {
     public static void main(String[] args) {
         System.out.println("ようこそアプリケーションへ！");
     }
