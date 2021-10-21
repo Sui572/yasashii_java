@@ -1,10 +1,12 @@
+package Sample;
+
 import javafx.application.*;
 import javafx.stage.*;
 import javafx.scene.*;
-import javafx.scene.control.*;
+// import javafx.scene.control.*;
 import javafx.scene.layout.*;
 
-public class Sample2 extends Application {
+public class Sample1_2 extends Application {
     public static void main(String[] args) throws Exception {
         launch(args);
     }
