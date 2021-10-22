@@ -6,6 +6,78 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sample4_4_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_4_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_3_3",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_3_3",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_3_2",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_3_2",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_3_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_3_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_2_3",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_2_3",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_2_2",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_2_2",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_2_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_2_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_1_4",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_1_4",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample4_1_3",
+            "request": "launch",
+            "mainClass": "Sample.Sample4_1_3",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample4_1_2",
             "request": "launch",
             "mainClass": "Sample.Sample4_1_2",
@@ -14,33 +86,33 @@
         },
         {
             "type": "java",
-            "name": "Launch Sample4_1",
+            "name": "Launch Sample4_1_1",
             "request": "launch",
-            "mainClass": "Sample.Sample4_1",
+            "mainClass": "Sample.Sample4_1_1",
             "projectName": "yasashii_java_2769293a",
             "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
         },
         {
             "type": "java",
-            "name": "Launch Sample3_4_3",
+            "name": "Launch Practice3_4_3",
             "request": "launch",
-            "mainClass": "Practice.Sample3_4_3",
+            "mainClass": "Practice.Practice3_4_3",
             "projectName": "yasashii_java_2769293a",
             "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
         },
         {
             "type": "java",
-            "name": "Launch Sample3_4_2",
+            "name": "Launch Practice3_4_2",
             "request": "launch",
-            "mainClass": "Practice.Sample3_4_2",
+            "mainClass": "Practice.Practice3_4_2",
             "projectName": "yasashii_java_2769293a",
             "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
         },
         {
             "type": "java",
-            "name": "Launch Practice3_4",
+            "name": "Launch Practice3_4_!",
             "request": "launch",
-            "mainClass": "Practice.Practice3_4",
+            "mainClass": "Practice.Practice3_4_1",
             "projectName": "yasashii_java_2769293a",
             "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
         },
@@ -70,9 +142,9 @@
         },
         {
             "type": "java",
-            "name": "Launch Sample3_3",
+            "name": "Launch Sample3_3_1",
             "request": "launch",
-            "mainClass": "Sample.Sample3_3",
+            "mainClass": "Sample.Sample3_3_1",
             "projectName": "yasashii_java_2769293a",
             "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
         },

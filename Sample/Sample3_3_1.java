@@ -1,24 +1,23 @@
-package Practice;
+package Sample;
 
-import javafx.application.Application;
+import javafx.application.*;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.layout.BorderPane;
-import javafx.stage.Stage;
+import javafx.stage.*;
 import javafx.scene.*;
+import javafx.scene.control.*;
+import javafx.scene.layout.*;
 
-public class Practice3_4 extends Application{
+public class Sample3_3_1 extends Application{
     private Label lb;
     private Button bt;
-
+    
     public static void main(String[] args) {
         launch(args);
     }
     public void start(Stage stage) throws Exception{
         // コントロールの作成
-        lb = new Label("いらっしゃいませ");
+        lb = new Label("いらっしゃいませ。");
         bt = new Button("購入");
 
         // ペインの作成
@@ -29,7 +28,7 @@ public class Practice3_4 extends Application{
         bp.setCenter(bt);
 
         // イベントハンドラの登録
-        bt.setOnAction(new PracticeEventHandler());
+        bt.setOnAction(new SampleEventHandler());
 
         // シーンの作成
         Scene sc = new Scene(bp, 300, 200);
@@ -38,14 +37,14 @@ public class Practice3_4 extends Application{
         stage.setScene(sc);
 
         // ステージの表示
-        stage.setTitle("練習");
+        stage.setTitle("サンプル");
         stage.show();
     }
 
     // イベントハンドラクラス
-    class PracticeEventHandler implements EventHandler<ActionEvent>{
+    class SampleEventHandler implements EventHandler<ActionEvent>{
         public void handle(ActionEvent e){
-            bt.setText("Thanks!");
+            lb.setText("ご購入ありがとうございます。");
         }
     }
 }

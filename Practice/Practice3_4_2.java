@@ -8,7 +8,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
-public class Sample3_4_2 extends Application{
+public class Practice3_4_2 extends Application{
     private Button bt;
 
     public static void main(String[] args) {
