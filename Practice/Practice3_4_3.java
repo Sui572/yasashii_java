@@ -9,7 +9,7 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
-public class Sample3_4_3 extends Application{
+public class Practice3_4_3 extends Application{
     private Label lb1, lb2;
 
     public static void main(String[] args) {
