@@ -6,6 +6,46 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sample5_4_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample5_4_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample5_3_2",
+            "request": "launch",
+            "mainClass": "Sample.Sample5_3_2",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample5_3_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample5_3_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample5_2_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample5_2_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample5_1_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample5_1_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\Program Files (x86)\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample4_4_1",
             "request": "launch",
             "mainClass": "Sample.Sample4_4_1",
