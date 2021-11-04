@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sample10_2_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample10_2_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\app\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample10_1_2",
+            "request": "launch",
+            "mainClass": "Sample.Sample10_1_2",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\app\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample10_1_1",
+            "request": "launch",
+            "mainClass": "Sample.Sample10_1_1",
+            "projectName": "yasashii_java_2769293a",
+            "vmArgs": "--module-path \"C:\\app\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample9_4_4",
             "request": "launch",
             "mainClass": "Sample.Sample9_4_4",
